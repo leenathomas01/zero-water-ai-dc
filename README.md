@@ -65,15 +65,15 @@ zero-water-ai-dc/
 
 ```mermaid
 sankey-beta
-source-node,target-node,value
-"AI Chips (GB200)","Immersion Fluid (70°C)",1000
-"Immersion Fluid (70°C)","ORC Generator",200
-"Immersion Fluid (70°C)","Adsorption Chiller",300
-"Immersion Fluid (70°C)","Dry Cooler (Nanofluid)",500
-"ORC Generator","Grid Offset (Electricity)",30
-"ORC Generator","Dry Cooler (Nanofluid)",170
-"Adsorption Chiller","Facility Cooling (Cold Water)",200
-"Dry Cooler (Nanofluid)","Atmosphere (Zero Water)",670
+source,target,value
+AI Chips GB200,Immersion Fluid 70C,1000
+Immersion Fluid 70C,ORC Generator,200
+Immersion Fluid 70C,Adsorption Chiller,300
+Immersion Fluid 70C,Dry Cooler Nanofluid,500
+ORC Generator,Grid Offset Electricity,30
+ORC Generator,Dry Cooler Nanofluid,170
+Adsorption Chiller,Facility Cooling Cold Water,200
+Dry Cooler Nanofluid,Atmosphere Zero Water,670
 ```
 
 ### The "Dignity Layer" (Adaptive Load Prediction)
