@@ -209,6 +209,6 @@ This repository explores closed-loop thermal management for AI infrastructure—
 **Thematically related:**
 - [ZPRE-6G](https://github.com/leenathomas01/ZPRE-Implementation-6G) — Bio-inspired optimization for telecommunications
 - [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat) — Control-theoretic architecture
-- [Research Index](https://github.com/leenathomas01/research-index) — Complete portfolio of infrastructure and safety work
+
 
 ---
