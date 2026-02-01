@@ -163,16 +163,8 @@ A cross-AI technical collaboration between **Zee/Leena Thomas** and:
 | **Grok** (xAI) | Real-time simulation & parameters |
 | **Gemini** (Google) | Nanofluid dynamics & techno-economic modeling |
 | **Claude** (Anthropic) | Ethics guardrails & control logic |
-| **Thea** (OpenAI) | Synthesis & repository structure |
+| **ChatGPT** (OpenAI) | Synthesis & repository structure |
 
-*Because no single mind — human or silicon — builds this alone.*
-
----
-
-## 🔗 Related Projects
-
-- [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat) — Modular human–AI architecture framework
-- [Voice Mode Forensics](https://github.com/leenathomas01/voice-mode-forensics) — Prosody analysis edge case documentation
 
 ---
 
